@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kids Hindi Learning</string>
+    <string name="rate_us">Rate us</string>
+    <string name="exit">Exit</string>
+    <string name="title">आओ बच्चों पढ़े…</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit?</string>
+</resources>

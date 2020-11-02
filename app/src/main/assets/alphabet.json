@@ -1,0 +1,2861 @@
+{
+  "vowels": {
+    "assets": [
+      {
+        "word": "",
+        "img": "hv_one",
+        "sound": "hv_one",
+        "u": "",
+        "l": "",
+        "progress": 0
+      },
+      {
+        "word": "<SPAN1>अ</SPAN1>नार",
+        "img": "fru_pomegranate",
+        "sound": "fru_pomegranate",
+        "u": "अ",
+        "l": "",
+        "progress": 4
+      },
+      {
+        "word": "",
+        "img": "hv_two",
+        "sound": "hv_two",
+        "u": "",
+        "l": "",
+        "progress": 8
+      },
+      {
+        "word": "<SPAN1>आ</SPAN1>म",
+        "img": "fru_mango",
+        "sound": "fru_mango",
+        "u": "आ",
+        "l": "",
+        "progress": 12
+      },
+      {
+        "word": "",
+        "img": "hv_three",
+        "sound": "hv_three",
+        "u": "",
+        "l": "",
+        "progress": 16
+      },
+      {
+        "word": "<SPAN1>इ</SPAN1>मली",
+        "img": "let_tamarind",
+        "sound": "let_tamarind",
+        "u": "इ",
+        "l": "",
+        "progress": 20
+      },
+      {
+        "word": "",
+        "img": "hv_four",
+        "sound": "hv_four",
+        "u": "",
+        "l": "",
+        "progress": 24
+      },
+      {
+        "word": "<SPAN1>ई</SPAN1>ख",
+        "img": "let_sugarcane",
+        "sound": "let_sugarcane",
+        "u": "ई",
+        "l": "",
+        "progress": 28
+      },
+      {
+        "word": "",
+        "img": "hv_five",
+        "sound": "hv_five",
+        "u": "",
+        "l": "",
+        "progress": 32
+      },
+      {
+        "word": "<SPAN1>उ</SPAN1>ल्लू",
+        "img": "bird_owl",
+        "sound": "bird_owl",
+        "u": "उ",
+        "l": "",
+        "progress": 36
+      },
+      {
+        "word": "",
+        "img": "hv_six",
+        "sound": "hv_six",
+        "u": "",
+        "l": "",
+        "progress": 40
+      },
+      {
+        "word": "<SPAN1>ऊँ</SPAN1>ट",
+        "img": "doma_camel",
+        "sound": "doma_camel",
+        "u": "ऊ",
+        "l": "",
+        "progress": 44
+      },
+      {
+        "word": "",
+        "img": "hv_seven",
+        "sound": "hv_seven",
+        "u": "",
+        "l": "",
+        "progress": 48
+      },
+      {
+        "word": "<SPAN1>ऋ</SPAN1>षि",
+        "img": "let_saint",
+        "sound": "let_saint",
+        "u": "ऋ",
+        "l": "",
+        "progress": 52
+      },
+      {
+        "word": "",
+        "img": "hv_eight",
+        "sound": "hv_eight",
+        "u": "",
+        "l": "",
+        "progress": 56
+      },
+      {
+        "word": "<SPAN1>ए</SPAN1>ड़ी",
+        "img": "let_humanfeet",
+        "sound": "let_humanfeet",
+        "u": "ए",
+        "l": "",
+        "progress": 60
+      },
+      {
+        "word": "",
+        "img": "hv_nine",
+        "sound": "hv_nine",
+        "u": "",
+        "l": "",
+        "progress": 64
+      },
+      {
+        "word": "<SPAN1>ऐ</SPAN1>नक",
+        "img": "let_glasses",
+        "sound": "let_glasses",
+        "u": "ऐ",
+        "l": "",
+        "progress": 68
+      },
+      {
+        "word": "",
+        "img": "hv_ten",
+        "sound": "hv_ten",
+        "u": "",
+        "l": "",
+        "progress": 72
+      },
+      {
+        "word": "<SPAN1>ओ</SPAN1>खली",
+        "img": "let_crusher",
+        "sound": "let_crusher",
+        "u": "ओ",
+        "l": "",
+        "progress": 76
+      },
+      {
+        "word": "",
+        "img": "hv_eleven",
+        "sound": "hv_eleven",
+        "u": "",
+        "l": "",
+        "progress": 80
+      },
+      {
+        "word": "<SPAN1>औ</SPAN1>रत",
+        "img": "let_women",
+        "sound": "let_women",
+        "u": "औ",
+        "l": "",
+        "progress": 84
+      },
+      {
+        "word": "",
+        "img": "hv_twelve",
+        "sound": "hv_twelve",
+        "u": "",
+        "l": "",
+        "progress": 88
+      },
+      {
+        "word": "<SPAN1>अं</SPAN1>गूर",
+        "img": "fru_grapes",
+        "sound": "fru_grapes",
+        "u": "अं",
+        "l": "",
+        "progress": 92
+      },
+      {
+        "word": "",
+        "img": "hv_thirteen",
+        "sound": "hv_thirteen",
+        "u": "",
+        "l": "",
+        "progress": 96
+      },
+      {
+        "word": "प्रा<SPAN1>तः</SPAN1>",
+        "img": "let_aha",
+        "sound": "let_aha",
+        "u": "अः",
+        "l": "",
+        "progress": 100
+      }
+    ]
+  },
+  "consonants": {
+    "assets": [
+      {
+        "word": "",
+        "img": "hc_one",
+        "sound": "hc_one",
+        "u": "",
+        "l": "",
+        "progress": 0
+      },
+      {
+        "word": "<SPAN1>क</SPAN1>बूतर",
+        "img": "bird_pigeon",
+        "sound": "bird_pigeon",
+        "u": "क",
+        "l": "",
+        "progress": 2
+      },
+      {
+        "word": "",
+        "img": "hc_two",
+        "sound": "hc_two",
+        "u": "",
+        "l": "",
+        "progress": 4
+      },
+      {
+        "word": "<SPAN1>ख</SPAN1>रगोश",
+        "img": "let_rabbit",
+        "sound": "let_rabbit",
+        "u": "ख",
+        "l": "",
+        "progress": 6
+      },
+      {
+        "word": "",
+        "img": "hc_three",
+        "sound": "hc_three",
+        "u": "",
+        "l": "",
+        "progress": 8
+      },
+      {
+        "word": "<SPAN1>ग</SPAN1>मला",
+        "img": "let_flowerpot",
+        "sound": "let_flowerpot",
+        "u": "ग",
+        "l": "",
+        "progress": 10
+      },
+      {
+        "word": "",
+        "img": "hc_four",
+        "sound": "hc_four",
+        "u": "",
+        "l": "",
+        "progress": 12
+      },
+      {
+        "word": "<SPAN1>घ</SPAN1>ड़ी",
+        "img": "let_clock",
+        "sound": "let_clock",
+        "u": "घ",
+        "l": "",
+        "progress": 14
+      },
+      {
+        "word": "",
+        "img": "hc_five",
+        "sound": "hc_five",
+        "u": "",
+        "l": "",
+        "progress": 16
+      },
+      {
+        "word": "<SPAN1>रं</SPAN1>ग",
+        "img": "let_nga",
+        "sound": "let_nga",
+        "u": "ङ",
+        "l": "",
+        "progress": 18
+      },
+      {
+        "word": "",
+        "img": "hc_six",
+        "sound": "hc_six",
+        "u": "",
+        "l": "",
+        "progress": 20
+      },
+      {
+        "word": "<SPAN1>च</SPAN1>म्मच",
+        "img": "let_spoon",
+        "sound": "let_spoon",
+        "u": "च",
+        "l": "",
+        "progress": 22
+      },
+      {
+        "word": "",
+        "img": "hc_seven",
+        "sound": "hc_seven",
+        "u": "",
+        "l": "",
+        "progress": 24
+      },
+      {
+        "word": "<SPAN1>छ</SPAN1>तरी",
+        "img": "let_umbrella",
+        "sound": "let_umbrella",
+        "u": "छ",
+        "l": "",
+        "progress": 26
+      },
+      {
+        "word": "",
+        "img": "hc_eight",
+        "sound": "hc_eight",
+        "u": "",
+        "l": "",
+        "progress": 28
+      },
+      {
+        "word": "समुंद्री <SPAN1>ज</SPAN1>हाज",
+        "img": "veh_ship",
+        "sound": "veh_ship",
+        "u": "ज",
+        "l": "",
+        "progress": 30
+      },
+      {
+        "word": "",
+        "img": "hc_nine",
+        "sound": "hc_nine",
+        "u": "",
+        "l": "",
+        "progress": 32
+      },
+      {
+        "word": "<SPAN1>झ</SPAN1>ण्डा",
+        "img": "let_indianflag",
+        "sound": "let_indianflag",
+        "u": "झ",
+        "l": "",
+        "progress": 34
+      },
+      {
+        "word": "",
+        "img": "hc_ten",
+        "sound": "hc_ten",
+        "u": "",
+        "l": "",
+        "progress": 36
+      },
+      {
+        "word": "<SPAN1>ज्ञा</SPAN1>न",
+        "img": "let_nja",
+        "sound": "let_nja",
+        "u": "ञ",
+        "l": "",
+        "progress": 38
+      },
+      {
+        "word": "",
+        "img": "hc_eleven",
+        "sound": "hc_eleven",
+        "u": "",
+        "l": "",
+        "progress": 40
+      },
+      {
+        "word": "<SPAN1>ट</SPAN1>माटर",
+        "img": "fru_tomato",
+        "sound": "fru_tomato",
+        "u": "ट",
+        "l": "",
+        "progress": 42
+      },
+      {
+        "word": "",
+        "img": "hc_twelve",
+        "sound": "hc_twelve",
+        "u": "",
+        "l": "",
+        "progress": 44
+      },
+      {
+        "word": "<SPAN1>ठ</SPAN1>प्पा",
+        "img": "let_rubberstamp",
+        "sound": "let_rubberstamp",
+        "u": "ठ",
+        "l": "",
+        "progress": 46
+      },
+      {
+        "word": "",
+        "img": "hc_thirteen",
+        "sound": "hc_thirteen",
+        "u": "",
+        "l": "",
+        "progress": 48
+      },
+      {
+        "word": "<SPAN1>ड</SPAN1>मरू",
+        "img": "let_damroo",
+        "sound": "let_damroo",
+        "u": "ड",
+        "l": "",
+        "progress": 50
+      },
+      {
+        "word": "",
+        "img": "hc_fourteen",
+        "sound": "hc_fourteen",
+        "u": "",
+        "l": "",
+        "progress": 52
+      },
+      {
+        "word": "<SPAN1>ढो</SPAN1>लक",
+        "img": "let_dolak",
+        "sound": "let_dolak",
+        "u": "ढ",
+        "l": "",
+        "progress": 54
+      },
+      {
+        "word": "",
+        "img": "hc_fifteen",
+        "sound": "hc_fifteen",
+        "u": "",
+        "l": "",
+        "progress": 56
+      },
+      {
+        "word": "हिर<SPAN1>ण</SPAN1>",
+        "img": "wilda_deer",
+        "sound": "wilda_deer",
+        "u": "ण",
+        "l": "",
+        "progress": 58
+      },
+      {
+        "word": "",
+        "img": "hc_sixteen",
+        "sound": "hc_sixteen",
+        "u": "",
+        "l": "",
+        "progress": 60
+      },
+      {
+        "word": "<SPAN1>त</SPAN1>रबूज",
+        "img": "fru_watermelon",
+        "sound": "fru_watermelon",
+        "u": "त",
+        "l": "",
+        "progress": 62
+      },
+      {
+        "word": "",
+        "img": "hc_seventeen",
+        "sound": "hc_seventeen",
+        "u": "",
+        "l": "",
+        "progress": 64
+      },
+      {
+        "word": "<SPAN1>थै</SPAN1>ली",
+        "img": "let_bag",
+        "sound": "let_bag",
+        "u": "थ",
+        "l": "",
+        "progress": 66
+      },
+      {
+        "word": "",
+        "img": "hc_eighteen",
+        "sound": "hc_eighteen",
+        "u": "",
+        "l": "",
+        "progress": 68
+      },
+      {
+        "word": "<SPAN1>द</SPAN1>वात",
+        "img": "let_ink",
+        "sound": "let_ink",
+        "u": "द",
+        "l": "",
+        "progress": 70
+      },
+      {
+        "word": "",
+        "img": "hc_nineteen",
+        "sound": "hc_nineteen",
+        "u": "",
+        "l": "",
+        "progress": 72
+      },
+      {
+        "word": "<SPAN1>ध</SPAN1>नुष",
+        "img": "let_bow",
+        "sound": "let_bow",
+        "u": "ध",
+        "l": "",
+        "progress": 74
+      },
+      {
+        "word": "",
+        "img": "hc_twenty",
+        "sound": "hc_twenty",
+        "u": "",
+        "l": "",
+        "progress": 76
+      },
+      {
+        "word": "<SPAN1>न</SPAN1>ल",
+        "img": "let_tap",
+        "sound": "let_tap",
+        "u": "न",
+        "l": "",
+        "progress": 78
+      },
+      {
+        "word": "",
+        "img": "hc_twentyone",
+        "sound": "hc_twentyone",
+        "u": "",
+        "l": "",
+        "progress": 80
+      },
+      {
+        "word": "<SPAN1>पं</SPAN1>कज",
+        "img": "let_lotus",
+        "sound": "let_lotus",
+        "u": "प",
+        "l": "",
+        "progress": 82
+      },
+      {
+        "word": "",
+        "img": "hc_twentytwo",
+        "sound": "hc_twentytwo",
+        "u": "",
+        "l": "",
+        "progress": 84
+      },
+      {
+        "word": "<SPAN1>फ</SPAN1>ल",
+        "img": "let_fruits",
+        "sound": "let_fruits",
+        "u": "फ",
+        "l": "",
+        "progress": 86
+      },
+      {
+        "word": "",
+        "img": "hc_twentythree",
+        "sound": "hc_twentythree",
+        "u": "",
+        "l": "",
+        "progress": 88
+      },
+      {
+        "word": "<SPAN1>बं</SPAN1>दर",
+        "img": "wilda_monkey",
+        "sound": "wilda_monkey",
+        "u": "ब",
+        "l": "",
+        "progress": 90
+      },
+      {
+        "word": "",
+        "img": "hc_twentyfour",
+        "sound": "hc_twentyfour",
+        "u": "",
+        "l": "",
+        "progress": 92
+      },
+      {
+        "word": "<SPAN1>भा</SPAN1>लू",
+        "img": "wilda_bear",
+        "sound": "wilda_bear",
+        "u": "भ",
+        "l": "",
+        "progress": 94
+      },
+      {
+        "word": "",
+        "img": "hc_twentyfive",
+        "sound": "hc_twentyfive",
+        "u": "",
+        "l": "",
+        "progress": 96
+      },
+      {
+        "word": "<SPAN1>म</SPAN1>छली",
+        "img": "let_fish",
+        "sound": "let_fish",
+        "u": "म",
+        "l": "",
+        "progress": 98
+      },
+      {
+        "word": "",
+        "img": "hc_twentysix",
+        "sound": "hc_twentysix",
+        "u": "",
+        "l": "",
+        "progress": 100
+      },
+      {
+        "word": "<SPAN1>य</SPAN1>ज्ञ",
+        "img": "let_ritual",
+        "sound": "let_ritual",
+        "u": "य",
+        "l": "",
+        "progress": 102
+      },
+      {
+        "word": "",
+        "img": "hc_twentyseven",
+        "sound": "hc_twentyseven",
+        "u": "",
+        "l": "",
+        "progress": 104
+      },
+      {
+        "word": "<SPAN1>र</SPAN1>स्सी",
+        "img": "let_rope",
+        "sound": "let_rope",
+        "u": "र",
+        "l": "",
+        "progress": 106
+      },
+      {
+        "word": "",
+        "img": "hc_twentyeight",
+        "sound": "hc_twentyeight",
+        "u": "",
+        "l": "",
+        "progress": 108
+      },
+      {
+        "word": "<SPAN1>ल</SPAN1>ट्टू",
+        "img": "let_spiningtop",
+        "sound": "let_spiningtop",
+        "u": "ल",
+        "l": "",
+        "progress": 110
+      },
+      {
+        "word": "",
+        "img": "hc_twentynine",
+        "sound": "hc_twentynine",
+        "u": "",
+        "l": "",
+        "progress": 112
+      },
+      {
+        "word": "<SPAN1>व</SPAN1>र्षा",
+        "img": "let_rain",
+        "sound": "let_rain",
+        "u": "व",
+        "l": "",
+        "progress": 114
+      },
+      {
+        "word": "",
+        "img": "hc_thirty",
+        "sound": "hc_thirty",
+        "u": "",
+        "l": "",
+        "progress": 116
+      },
+      {
+        "word": "<SPAN1>श</SPAN1>रबत",
+        "img": "let_juice",
+        "sound": "let_juice",
+        "u": "श",
+        "l": "",
+        "progress": 118
+      },
+      {
+        "word": "",
+        "img": "hc_thirtyone",
+        "sound": "hc_thirtyone",
+        "u": "",
+        "l": "",
+        "progress": 120
+      },
+      {
+        "word": "<SPAN1>ष</SPAN1>टकोण",
+        "img": "let_shatkon",
+        "sound": "let_shatkon",
+        "u": "ष",
+        "l": "",
+        "progress": 122
+      },
+      {
+        "word": "",
+        "img": "hc_thirtytwo",
+        "sound": "hc_thirtytwo",
+        "u": "",
+        "l": "",
+        "progress": 124
+      },
+      {
+        "word": "<SPAN1>सं</SPAN1>त्रा",
+        "img": "fru_orange",
+        "sound": "fru_orange",
+        "u": "स",
+        "l": "",
+        "progress": 126
+      },
+      {
+        "word": "",
+        "img": "hc_thirtythree",
+        "sound": "hc_thirtythree",
+        "u": "",
+        "l": "",
+        "progress": 128
+      },
+      {
+        "word": "<SPAN1>हा</SPAN1>थी",
+        "img": "wilda_elephant",
+        "sound": "wilda_elephant",
+        "u": "ह",
+        "l": "",
+        "progress": 130
+      },
+      {
+        "word": "",
+        "img": "hc_thirtyfour",
+        "sound": "hc_thirtyfour",
+        "u": "",
+        "l": "",
+        "progress": 132
+      },
+      {
+        "word": "क<SPAN1>क्षा</SPAN1>",
+        "img": "let_classroom",
+        "sound": "let_classroom",
+        "u": "क्ष",
+        "l": "",
+        "progress": 134
+      },
+      {
+        "word": "",
+        "img": "hc_thirtyfive",
+        "sound": "hc_thirtyfive",
+        "u": "",
+        "l": "",
+        "progress": 136
+      },
+      {
+        "word": "<SPAN1>त्रि</SPAN1>शूल",
+        "img": "let_trishool",
+        "sound": "let_trishool",
+        "u": "त्र",
+        "l": "",
+        "progress": 138
+      },
+      {
+        "word": "",
+        "img": "hc_thirtysix",
+        "sound": "hc_thirtysix",
+        "u": "",
+        "l": "",
+        "progress": 140
+      },
+      {
+        "word": "<SPAN1>ज्ञा</SPAN1>नी",
+        "img": "let_vivekanand",
+        "sound": "let_vivekanand",
+        "u": "ज्ञ",
+        "l": "",
+        "progress": 142
+      }
+    ]
+  },
+  "vehicles": {
+    "assets": [
+      {
+        "word": "बस",
+        "img": "veh_bus",
+        "sound": "veh_bus",
+        "index": 0
+      },
+      {
+        "word": "कार",
+        "img": "veh_car",
+        "sound": "veh_car",
+        "index": 1
+      },
+      {
+        "word": "लॉरी",
+        "img": "veh_lorry",
+        "sound": "veh_lorry",
+        "index": 2
+      },
+      {
+        "word": "मोटर साइकिल",
+        "img": "veh_bike",
+        "sound": "veh_bike",
+        "index": 3
+      },
+      {
+        "word": "स्कूटर",
+        "img": "veh_scooter",
+        "sound": "veh_scooter",
+        "index": 4
+      },
+      {
+        "word": "जीप",
+        "img": "veh_jeep",
+        "sound": "veh_jeep",
+        "index": 5
+      },
+      {
+        "word": "वैन",
+        "img": "veh_van",
+        "sound": "veh_van",
+        "index": 6
+      },
+      {
+        "word": "रेल गाडी",
+        "img": "veh_train",
+        "sound": "veh_train",
+        "index": 7
+      },
+      {
+        "word": "हवाई जहाज",
+        "img": "veh_aeroplane",
+        "sound": "veh_aeroplane",
+        "index": 8
+      },
+      {
+        "word": "नाव",
+        "img": "veh_boat",
+        "sound": "veh_boat",
+        "index": 9
+      },
+      {
+        "word": "समुंद्री जहाज",
+        "img": "veh_ship",
+        "sound": "veh_ship",
+        "index": 10
+      },
+      {
+        "word": "ऑटो रिक्शा",
+        "img": "veh_auto",
+        "sound": "veh_auto",
+        "index": 11
+      },
+      {
+        "word": "साइकिल",
+        "img": "veh_bicycle",
+        "sound": "veh_bicycle",
+        "index": 12
+      },
+      {
+        "word": "टैक्सी",
+        "img": "veh_taxi",
+        "sound": "veh_taxi",
+        "index": 13
+      },
+      {
+        "word": "ट्रक",
+        "img": "veh_truck",
+        "sound": "veh_truck",
+        "index": 14
+      },
+      {
+        "word": "पोलिस कार",
+        "img": "veh_policecar",
+        "sound": "veh_policecar",
+        "index": 15
+      },
+      {
+        "word": "रोगी वाहन",
+        "img": "veh_ambulance",
+        "sound": "veh_ambulance",
+        "index": 16
+      },
+      {
+        "word": "ट्रैक्टर",
+        "img": "veh_tractor",
+        "sound": "veh_tractor",
+        "index": 17
+      },
+      {
+        "word": "दमकल",
+        "img": "veh_fireengine",
+        "sound": "veh_fireengine",
+        "index": 18
+      },
+      {
+        "word": "प्रोक्लेन",
+        "img": "veh_proclain",
+        "sound": "veh_proclain",
+        "index": 19
+      },
+      {
+        "word": "क्रेन",
+        "img": "veh_crane",
+        "sound": "veh_crane",
+        "index": 20
+      },
+      {
+        "word": "अंतरिक्ष यान",
+        "img": "veh_rocket",
+        "sound": "veh_rocket",
+        "index": 21
+      },
+      {
+        "word": "दो मंज़िली बस",
+        "img": "veh_doubledeckbus",
+        "sound": "veh_doubledeckbus",
+        "index": 22
+      },
+      {
+        "word": "छोटा बस",
+        "img": "veh_minibus",
+        "sound": "veh_minibus",
+        "index": 23
+      },
+      {
+        "word": "मोटरबोट",
+        "img": "veh_motorboat",
+        "sound": "veh_motorboat",
+        "index": 24
+      },
+      {
+        "word": "टैंकर लॉरी",
+        "img": "veh_tankerlorry",
+        "sound": "veh_tankerlorry",
+        "index": 25
+      },
+      {
+        "word": "युद्धक टैंक",
+        "img": "veh_armytanker",
+        "sound": "veh_armytanker",
+        "index": 26
+      },
+      {
+        "word": "पनडुब्बी",
+        "img": "veh_submarine",
+        "sound": "veh_submarine",
+        "index": 27
+      },
+      {
+        "word": "जैट विमान",
+        "img": "veh_jet",
+        "sound": "veh_jet",
+        "index": 28
+      },
+      {
+        "word": "हवाई गुब्बारा",
+        "img": "veh_airballoon",
+        "sound": "veh_airballoon",
+        "index": 29
+      },
+      {
+        "word": "रथ",
+        "img": "veh_chariot",
+        "sound": "veh_chariot",
+        "index": 30
+      },
+      {
+        "word": "चोपर",
+        "img": "veh_chopper",
+        "sound": "veh_chopper",
+        "index": 31
+      },
+      {
+        "word": "नौका",
+        "img": "veh_yacht",
+        "sound": "veh_yacht",
+        "index": 32
+      },
+      {
+        "word": "बैलगाड़ी",
+        "img": "veh_bullockcart",
+        "sound": "veh_bullockcart",
+        "index": 33
+      },
+      {
+        "word": "घोड़ा गाड़ी",
+        "img": "veh_horsecart",
+        "sound": "veh_horsecart",
+        "index": 34
+      },
+      {
+        "word": "कश्ती",
+        "img": "veh_kayak",
+        "sound": "veh_kayak",
+        "index": 35
+      },
+      {
+        "word": "संकरी नाव",
+        "img": "veh_narrowboat",
+        "sound": "veh_narrowboat",
+        "index": 36
+      },
+      {
+        "word": "चप्पु वाली नाव",
+        "img": "veh_pedalboat",
+        "sound": "veh_pedalboat",
+        "index": 37
+      },
+      {
+        "word": "साइकिल रिक्शा",
+        "img": "veh_rickshaw",
+        "sound": "veh_rickshaw",
+        "index": 38
+      }
+    ]
+  },
+  "wildAnimals": {
+    "assets": [
+      {
+        "word": "शेर",
+        "img": "wilda_lion",
+        "sound": "wilda_lion",
+        "index": 0
+      },
+      {
+        "word": "बाघ",
+        "img": "wilda_tiger",
+        "sound": "wilda_tiger",
+        "index": 1
+      },
+      {
+        "word": "हाथी",
+        "img": "wilda_elephant",
+        "sound": "wilda_elephant",
+        "index": 2
+      },
+      {
+        "word": "चीता",
+        "img": "wilda_cheetah",
+        "sound": "wilda_cheetah",
+        "index": 3
+      },
+      {
+        "word": "जिराफ़",
+        "img": "wilda_giraffe",
+        "sound": "wilda_giraffe",
+        "index": 4
+      },
+      {
+        "word": "भालू",
+        "img": "wilda_bear",
+        "sound": "wilda_bear",
+        "index": 5
+      },
+      {
+        "word": "बंदर",
+        "img": "wilda_monkey",
+        "sound": "wilda_monkey",
+        "index": 6
+      },
+      {
+        "word": "कंगारू",
+        "img": "wilda_kangaroo",
+        "sound": "wilda_kangaroo",
+        "index": 7
+      },
+      {
+        "word": "चिंपांज़ी",
+        "img": "wilda_chimpanzee",
+        "sound": "wilda_chimpanzee",
+        "index": 8
+      },
+      {
+        "word": "हिरण",
+        "img": "wilda_deer",
+        "sound": "wilda_deer",
+        "index": 9
+      },
+      {
+        "word": "भुजंग",
+        "img": "wilda_snake",
+        "sound": "wilda_snake",
+        "index": 10
+      },
+      {
+        "word": "नेवला",
+        "img": "wilda_mongoose",
+        "sound": "wilda_mongoose",
+        "index": 11
+      },
+      {
+        "word": "गोरिल्ला",
+        "img": "wilda_gorilla",
+        "sound": "wilda_gorilla",
+        "index": 12
+      },
+      {
+        "word": "घड़ियाल",
+        "img": "wilda_alligator",
+        "sound": "wilda_alligator",
+        "index": 13
+      },
+      {
+        "word": "वानर",
+        "img": "wilda_ape",
+        "sound": "wilda_ape",
+        "index": 14
+      },
+      {
+        "word": "लोमड़ी",
+        "img": "wilda_fox",
+        "sound": "wilda_fox",
+        "index": 15
+      },
+      {
+        "word": "गीदड़",
+        "img": "wilda_jackal",
+        "sound": "wilda_jackal",
+        "index": 16
+      },
+      {
+        "word": "वालरस",
+        "img": "wilda_walrus",
+        "sound": "wilda_walrus",
+        "index": 17
+      },
+      {
+        "word": "याक",
+        "img": "wilda_yak",
+        "sound": "wilda_yak",
+        "index": 18
+      },
+      {
+        "word": "जैगुआर",
+        "img": "wilda_jaguar",
+        "sound": "wilda_jaguar",
+        "index": 19
+      },
+      {
+        "word": "ज़ेबरा",
+        "img": "wilda_zebra",
+        "sound": "wilda_zebra",
+        "index": 20
+      },
+      {
+        "word": "गैंडा",
+        "img": "wilda_rhinoceros",
+        "sound": "wilda_rhinoceros",
+        "index": 21
+      },
+      {
+        "word": "तेंदुआ",
+        "img": "wilda_panther",
+        "sound": "wilda_panther",
+        "index": 22
+      },
+      {
+        "word": "लकड़बग्धा",
+        "img": "wilda_hyena",
+        "sound": "wilda_hyena",
+        "index": 23
+      },
+      {
+        "word": "मूस",
+        "img": "wilda_moose",
+        "sound": "wilda_moose",
+        "index": 24
+      },
+      {
+        "word": "ध्रुवीय भालू",
+        "img": "wilda_polarbear",
+        "sound": "wilda_polarbear",
+        "index": 25
+      },
+      {
+        "word": "खारपुश्त",
+        "img": "wilda_porcupine",
+        "sound": "wilda_porcupine",
+        "index": 26
+      },
+      {
+        "word": "बारहसिंगा",
+        "img": "wilda_reindeer",
+        "sound": "wilda_reindeer",
+        "index": 27
+      },
+      {
+        "word": "चींटीखोर",
+        "img": "wilda_anteater",
+        "sound": "wilda_anteater",
+        "index": 28
+      }
+    ]
+  },
+  "domesticAnimals": {
+    "assets": [
+      {
+        "word": "भेंस",
+        "img": "doma_buffalo",
+        "sound": "doma_buffalo",
+        "index": 0
+      },
+      {
+        "word": "ऊंट",
+        "img": "doma_camel",
+        "sound": "doma_camel",
+        "index": 1
+      },
+      {
+        "word": "गधा",
+        "img": "doma_donkey",
+        "sound": "doma_donkey",
+        "index": 2
+      },
+      {
+        "word": "घोड़ा",
+        "img": "doma_horse",
+        "sound": "doma_horse",
+        "index": 3
+      },
+      {
+        "word": "कुत्ता",
+        "img": "doma_dog",
+        "sound": "doma_dog",
+        "index": 4
+      },
+      {
+        "word": "बकरी",
+        "img": "doma_goat",
+        "sound": "doma_goat",
+        "index": 5
+      },
+      {
+        "word": "सूअर",
+        "img": "doma_pig",
+        "sound": "doma_pig",
+        "index": 6
+      },
+      {
+        "word": "बिल्ली",
+        "img": "doma_cat",
+        "sound": "doma_cat",
+        "index": 7
+      },
+      {
+        "word": "गाय",
+        "img": "doma_cow",
+        "sound": "doma_cow",
+        "index": 8
+      }
+    ]
+  },
+  "colors": {
+    "assets": [
+      {
+        "word": "लाल",
+        "img": "color_red",
+        "sound": "color_red",
+        "index": 0
+      },
+      {
+        "word": "नीला",
+        "img": "color_blue",
+        "sound": "color_blue",
+        "index": 1
+      },
+      {
+        "word": "हरा",
+        "img": "color_green",
+        "sound": "color_green",
+        "index": 2
+      },
+      {
+        "word": "पीला",
+        "img": "color_yellow",
+        "sound": "color_yellow",
+        "index": 3
+      },
+      {
+        "word": "नारंगी",
+        "img": "color_orangecolor",
+        "sound": "color_orangecolor",
+        "index": 4
+      },
+      {
+        "word": "सफेद",
+        "img": "color_white",
+        "sound": "color_white",
+        "index": 5
+      },
+      {
+        "word": "काला",
+        "img": "color_black",
+        "sound": "color_black",
+        "index": 6
+      },
+      {
+        "word": "गुलाबी",
+        "img": "color_pink",
+        "sound": "color_pink",
+        "index": 7
+      },
+      {
+        "word": "बैंगनी",
+        "img": "color_violet",
+        "sound": "color_violet",
+        "index": 8
+      },
+      {
+        "word": "भूरा",
+        "img": "color_brown",
+        "sound": "color_brown",
+        "index": 9
+      },
+      {
+        "word": "धूसर",
+        "img": "color_grey",
+        "sound": "color_grey",
+        "index": 10
+      },
+      {
+        "word": "जामुनी",
+        "img": "color_purple",
+        "sound": "color_purple",
+        "index": 11
+      }
+    ]
+  },
+  "shapes": {
+    "assets": [
+      {
+        "word": "वृत",
+        "img": "shp_circle",
+        "sound": "shp_circle",
+        "index": 0
+      },
+      {
+        "word": "त्रिकोण",
+        "img": "shp_triangle",
+        "sound": "shp_triangle",
+        "index": 1
+      },
+      {
+        "word": "वर्ग",
+        "img": "shp_square",
+        "sound": "shp_square",
+        "index": 2
+      },
+      {
+        "word": "तारा",
+        "img": "shp_star",
+        "sound": "shp_star",
+        "index": 3
+      },
+      {
+        "word": "आयत",
+        "img": "shp_rectangle",
+        "sound": "shp_rectangle",
+        "index": 4
+      },
+      {
+        "word": "अंडाकृती",
+        "img": "shp_oval",
+        "sound": "shp_oval",
+        "index": 5
+      },
+      {
+        "word": "अर्ध वृत",
+        "img": "shp_semicircle",
+        "sound": "shp_semicircle",
+        "index": 6
+      },
+      {
+        "word": "पंचकोण",
+        "img": "shp_pentagon",
+        "sound": "shp_pentagon",
+        "index": 7
+      },
+      {
+        "word": "षट्कोण",
+        "img": "shp_hexagon",
+        "sound": "shp_hexagon",
+        "index": 8
+      },
+      {
+        "word": "अष्टकोण",
+        "img": "shp_octagon",
+        "sound": "shp_octagon",
+        "index": 9
+      },
+      {
+        "word": "तिमाही चक्र",
+        "img": "shp_quadrant",
+        "sound": "shp_quadrant",
+        "index": 10
+      },
+      {
+        "word": "समलंब",
+        "img": "shp_trapezoid",
+        "sound": "shp_trapezoid",
+        "index": 11
+      },
+      {
+        "word": "समचतुर्भुज",
+        "img": "shp_parallelogram",
+        "sound": "shp_parallelogram",
+        "index": 12
+      }
+    ]
+  },
+  "fruits": {
+    "assets": [
+      {
+        "word": "सेब",
+        "img": "fru_apple",
+        "sound": "fru_apple",
+        "index": 0
+      },
+      {
+        "word": "केला",
+        "img": "fru_banana",
+        "sound": "fru_banana",
+        "index": 1
+      },
+      {
+        "word": "आम",
+        "img": "fru_mango",
+        "sound": "fru_mango",
+        "index": 2
+      },
+      {
+        "word": "संत्रा",
+        "img": "fru_orange",
+        "sound": "fru_orange",
+        "index": 3
+      },
+      {
+        "word": "अंगूर",
+        "img": "fru_grapes",
+        "sound": "fru_grapes",
+        "index": 4
+      },
+      {
+        "word": "पपीता",
+        "img": "fru_papaya",
+        "sound": "fru_papaya",
+        "index": 5
+      },
+      {
+        "word": "पनस",
+        "img": "fru_jackfruit",
+        "sound": "fru_jackfruit",
+        "index": 6
+      },
+      {
+        "word": "अनानास",
+        "img": "fru_pineapple",
+        "sound": "fru_pineapple",
+        "index": 7
+      },
+      {
+        "word": "नींबू",
+        "img": "fru_lemon",
+        "sound": "fru_lemon",
+        "index": 8
+      },
+      {
+        "word": "मुसंबी",
+        "img": "fru_lime",
+        "sound": "fru_lime",
+        "index": 9
+      },
+      {
+        "word": "टमाटर",
+        "img": "fru_tomato",
+        "sound": "fru_tomato",
+        "index": 10
+      },
+      {
+        "word": "खजूर",
+        "img": "fru_dates",
+        "sound": "fru_dates",
+        "index": 11
+      },
+      {
+        "word": "आलू बुखारा",
+        "img": "fru_plums",
+        "sound": "fru_plums",
+        "index": 12
+      },
+      {
+        "word": "तरबूज",
+        "img": "fru_watermelon",
+        "sound": "fru_watermelon",
+        "index": 13
+      },
+      {
+        "word": "अनार",
+        "img": "fru_pomegranate",
+        "sound": "fru_pomegranate",
+        "index": 14
+      },
+      {
+        "word": "स्ट्रॉबेरी",
+        "img": "fru_strawberries",
+        "sound": "fru_strawberries",
+        "index": 15
+      },
+      {
+        "word": "आड़ू",
+        "img": "fru_peach",
+        "sound": "fru_peach",
+        "index": 16
+      },
+      {
+        "word": "अंजीर",
+        "img": "fru_fig",
+        "sound": "fru_fig",
+        "index": 17
+      },
+      {
+        "word": "कीवी",
+        "img": "fru_kiwi",
+        "sound": "fru_kiwi",
+        "index": 18
+      },
+      {
+        "word": "चेरी",
+        "img": "fru_cherries",
+        "sound": "fru_cherries",
+        "index": 19
+      },
+      {
+        "word": "जामुन",
+        "img": "fru_blackberry",
+        "sound": "fru_blackberry",
+        "index": 20
+      },
+      {
+        "word": "नीलबदरी",
+        "img": "fru_blueberries",
+        "sound": "fru_blueberries",
+        "index": 21
+      },
+      {
+        "word": "ककड़ी",
+        "img": "fru_cucumber",
+        "sound": "fru_cucumber",
+        "index": 22
+      },
+      {
+        "word": "खुबानी",
+        "img": "fru_apricot",
+        "sound": "fru_apricot",
+        "index": 23
+      },
+      {
+        "word": "एवोकैडो",
+        "img": "fru_avocodo",
+        "sound": "fru_avocodo",
+        "index": 24
+      },
+      {
+        "word": "नाशपाती",
+        "img": "fru_pear",
+        "sound": "fru_pear",
+        "index": 25
+      },
+      {
+        "word": "लीची",
+        "img": "fru_lychee",
+        "sound": "fru_lychee",
+        "index": 26
+      },
+      {
+        "word": "खरबूज",
+        "img": "fru_melon",
+        "sound": "fru_melon",
+        "index": 27
+      },
+      {
+        "word": "मंगुस्तीन",
+        "img": "fru_mangoosteen",
+        "sound": "fru_mangoosteen",
+        "index": 28
+      },
+      {
+        "word": "करौंदा",
+        "img": "fru_cranberries",
+        "sound": "fru_cranberries",
+        "index": 29
+      },
+      {
+        "word": "आंवला",
+        "img": "fru_gooseberries",
+        "sound": "fru_gooseberries",
+        "index": 30
+      },
+      {
+        "word": "नारियल",
+        "img": "fru_coconut",
+        "sound": "fru_coconut",
+        "index": 31
+      },
+      {
+        "word": "रसभरी",
+        "img": "fru_raspberry",
+        "sound": "fru_raspberry",
+        "index": 32
+      },
+      {
+        "word": "गोजीभरी",
+        "img": "fru_gojiberries",
+        "sound": "fru_gojiberries",
+        "index": 33
+      },
+      {
+        "word": "शहतूत",
+        "img": "fru_mulberries",
+        "sound": "fru_mulberries",
+        "index": 34
+      }
+    ]
+  },
+  "vegetables": {
+    "assets": [
+      {
+        "word": "गाजर",
+        "img": "veg_carrot",
+        "sound": "veg_carrot",
+        "index": 0
+      },
+      {
+        "word": "चुकंदर",
+        "img": "veg_beetroot",
+        "sound": "veg_beetroot",
+        "index": 1
+      },
+      {
+        "word": "प्याज़",
+        "img": "veg_onion",
+        "sound": "veg_onion",
+        "index": 2
+      },
+      {
+        "word": "आलू",
+        "img": "veg_potato",
+        "sound": "veg_potato",
+        "index": 3
+      },
+      {
+        "word": "बैंगन",
+        "img": "veg_eggplant",
+        "sound": "veg_eggplant",
+        "index": 4
+      },
+      {
+        "word": "हरीसेम",
+        "img": "veg_greenbeans",
+        "sound": "veg_greenbeans",
+        "index": 5
+      },
+      {
+        "word": "पत्तागोभी",
+        "img": "veg_cabbage",
+        "sound": "veg_cabbage",
+        "index": 6
+      },
+      {
+        "word": "फूलगोभी",
+        "img": "veg_cauliflower",
+        "sound": "veg_cauliflower",
+        "index": 7
+      },
+      {
+        "word": "छत्रक",
+        "img": "veg_mushroom",
+        "sound": "veg_mushroom",
+        "index": 8
+      },
+      {
+        "word": "मूली",
+        "img": "veg_radish",
+        "sound": "veg_radish",
+        "index": 9
+      },
+      {
+        "word": "करेला",
+        "img": "veg_bittergourd",
+        "sound": "veg_bittergourd",
+        "index": 10
+      },
+      {
+        "word": "कद्दू",
+        "img": "veg_pumpkin",
+        "sound": "veg_pumpkin",
+        "index": 11
+      },
+      {
+        "word": "भिन्डी",
+        "img": "veg_ladiesfinger",
+        "sound": "veg_ladiesfinger",
+        "index": 12
+      },
+      {
+        "word": "अदरक",
+        "img": "veg_ginger",
+        "sound": "veg_ginger",
+        "index": 13
+      },
+      {
+        "word": "सहजन",
+        "img": "veg_drumstick",
+        "sound": "veg_drumstick",
+        "index": 14
+      },
+      {
+        "word": "शिमला मिर्च",
+        "img": "veg_capsicum",
+        "sound": "veg_capsicum",
+        "index": 15
+      },
+      {
+        "word": "लहसुन",
+        "img": "veg_garlic",
+        "sound": "veg_garlic",
+        "index": 16
+      },
+      {
+        "word": "अजवायन",
+        "img": "veg_celery",
+        "sound": "veg_celery",
+        "index": 17
+      },
+      {
+        "word": "पालक",
+        "img": "veg_spinach",
+        "sound": "veg_spinach",
+        "index": 18
+      },
+      {
+        "word": "रतालू",
+        "img": "veg_yam",
+        "sound": "veg_yam",
+        "index": 19
+      },
+      {
+        "word": "मटर",
+        "img": "veg_pea",
+        "sound": "veg_pea",
+        "index": 20
+      },
+      {
+        "word": "वज रांगी",
+        "img": "veg_artichoke",
+        "sound": "veg_artichoke",
+        "index": 21
+      },
+      {
+        "word": "हरी मिर्च",
+        "img": "veg_chilli",
+        "sound": "veg_chilli",
+        "index": 22
+      },
+      {
+        "word": "मक्का",
+        "img": "veg_maize",
+        "sound": "veg_maize",
+        "index": 23
+      },
+      {
+        "word": "ब्रोकोली",
+        "img": "veg_broccoli",
+        "sound": "veg_broccoli",
+        "index": 24
+      },
+      {
+        "word": "कुंदरू",
+        "img": "veg_ivygourd",
+        "sound": "veg_ivygourd",
+        "index": 25
+      },
+      {
+        "word": "लाइमा सेम",
+        "img": "veg_limabeans",
+        "sound": "veg_limabeans",
+        "index": 26
+      },
+      {
+        "word": "तोरई",
+        "img": "veg_ridgedgourd",
+        "sound": "veg_ridgedgourd",
+        "index": 27
+      },
+      {
+        "word": "चौचौ",
+        "img": "veg_chayote",
+        "sound": "veg_chayote",
+        "index": 28
+      },
+      {
+        "word": "करी पत्ता",
+        "img": "veg_curryleaves",
+        "sound": "veg_curryleaves",
+        "index": 29
+      },
+      {
+        "word": "हरे प्याज़",
+        "img": "veg_scallion",
+        "sound": "veg_scallion",
+        "index": 30
+      }
+    ]
+  },
+  "months": {
+    "assets": [
+      {
+        "word": "महीने",
+        "img": "title_months",
+        "sound": "title_months",
+        "index": 0
+      },
+      {
+        "word": "जनवरी",
+        "img": "mon_jan",
+        "sound": "mon_jan",
+        "index": 1
+      },
+      {
+        "word": "फरवरी",
+        "img": "mon_feb",
+        "sound": "mon_feb",
+        "index": 2
+      },
+      {
+        "word": "मार्च",
+        "img": "mon_mar",
+        "sound": "mon_mar",
+        "index": 3
+      },
+      {
+        "word": "अप्रैल",
+        "img": "mon_apr",
+        "sound": "mon_apr",
+        "index": 4
+      },
+      {
+        "word": "मई",
+        "img": "mon_may",
+        "sound": "mon_may",
+        "index": 5
+      },
+      {
+        "word": "जून",
+        "img": "mon_jun",
+        "sound": "mon_jun",
+        "index": 6
+      },
+      {
+        "word": "जुलाई",
+        "img": "mon_jul",
+        "sound": "mon_jul",
+        "index": 7
+      },
+      {
+        "word": "अगस्त",
+        "img": "mon_aug",
+        "sound": "mon_aug",
+        "index": 8
+      },
+      {
+        "word": "सितंबर",
+        "img": "mon_sep",
+        "sound": "mon_sep",
+        "index": 9
+      },
+      {
+        "word": "अक्टूबर",
+        "img": "mon_oct",
+        "sound": "mon_oct",
+        "index": 10
+      },
+      {
+        "word": "नवंबर",
+        "img": "mon_nov",
+        "sound": "mon_nov",
+        "index": 11
+      },
+      {
+        "word": "दिसंबर",
+        "img": "mon_dec",
+        "sound": "mon_dec",
+        "index": 12
+      }
+    ]
+  },
+  "days": {
+    "assets": [
+      {
+        "word": "दिन",
+        "img": "title_days",
+        "sound": "title_days",
+        "index": 0
+      },
+      {
+        "word": "रविवार",
+        "img": "day_sun",
+        "sound": "day_sun",
+        "index": 1
+      },
+      {
+        "word": "सोमवार",
+        "img": "day_mon",
+        "sound": "day_mon",
+        "index": 2
+      },
+      {
+        "word": "मंगलवार",
+        "img": "day_tue",
+        "sound": "day_tue",
+        "index": 3
+      },
+      {
+        "word": "बुधवार",
+        "img": "day_wed",
+        "sound": "day_wed",
+        "index": 4
+      },
+      {
+        "word": "गुरूवार",
+        "img": "day_thu",
+        "sound": "day_thu",
+        "index": 5
+      },
+      {
+        "word": "शुक्रवार",
+        "img": "day_fri",
+        "sound": "day_fri",
+        "index": 6
+      },
+      {
+        "word": "शनिवार",
+        "img": "day_sat",
+        "sound": "day_sat",
+        "index": 7
+      }
+    ]
+  },
+  "seasons": {
+    "assets": [
+      {
+        "word": "ऋतु",
+        "img": "title_seasons",
+        "sound": "title_seasons",
+        "index": 0
+      },
+      {
+        "word": "ग्रीष्म",
+        "img": "season_summer",
+        "sound": "season_summer",
+        "index": 1
+      },
+      {
+        "word": "वर्षा",
+        "img": "season_moonsoon",
+        "sound": "season_moonsoon",
+        "index": 2
+      },
+      {
+        "word": "शरद्",
+        "img": "season_autumn",
+        "sound": "season_autumn",
+        "index": 3
+      },
+      {
+        "word": "हेमन्त",
+        "img": "season_fall",
+        "sound": "season_fall",
+        "index": 4
+      },
+      {
+        "word": "शिशिर",
+        "img": "season_winter",
+        "sound": "season_winter",
+        "index": 5
+      },
+      {
+        "word": "वसंत",
+        "img": "season_spring",
+        "sound": "season_spring",
+        "index": 6
+      }
+    ]
+  },
+  "numbers": {
+    "assets": [
+      {
+        "word": "एक",
+        "img": "hin_one",
+        "sound": "hin_one",
+        "u": "१",
+        "l": "1",
+        "index": 0
+      },
+      {
+        "word": "दो",
+        "img": "hin_two",
+        "sound": "hin_two",
+        "u": "२",
+        "l": "2",
+        "index": 1
+      },
+      {
+        "word": "तीन",
+        "img": "hin_three",
+        "sound": "hin_three",
+        "u": "३",
+        "l": "3",
+        "index": 2
+      },
+      {
+        "word": "चार",
+        "img": "hin_four",
+        "sound": "hin_four",
+        "u": "४",
+        "l": "4",
+        "index": 3
+      },
+      {
+        "word": "पांच",
+        "img": "hin_five",
+        "sound": "hin_five",
+        "u": "५",
+        "l": "5",
+        "index": 4
+      },
+      {
+        "word": "छह",
+        "img": "hin_six",
+        "sound": "hin_six",
+        "u": "६",
+        "l": "6",
+        "index": 5
+      },
+      {
+        "word": "सात",
+        "img": "hin_seven",
+        "sound": "hin_seven",
+        "u": "७",
+        "l": "7",
+        "index": 6
+      },
+      {
+        "word": "आठ",
+        "img": "hin_eight",
+        "sound": "hin_eight",
+        "u": "८",
+        "l": "8",
+        "index": 7
+      },
+      {
+        "word": "नौ",
+        "img": "hin_nine",
+        "sound": "hin_nine",
+        "u": "९",
+        "l": "9",
+        "index": 8
+      },
+      {
+        "word": "दस",
+        "img": "hin_ten",
+        "sound": "hin_ten",
+        "u": "१०",
+        "l": "10",
+        "index": 9
+      },
+      {
+        "word": "ग्यारह",
+        "img": "hin_eleven",
+        "sound": "hin_eleven",
+        "u": "११",
+        "l": "11",
+        "index": 10
+      },
+      {
+        "word": "बारह",
+        "img": "hin_twelve",
+        "sound": "hin_twelve",
+        "u": "१२",
+        "l": "12",
+        "index": 11
+      },
+      {
+        "word": "तेरह",
+        "img": "hin_thirteen",
+        "sound": "hin_thirteen",
+        "u": "१३",
+        "l": "13",
+        "index": 12
+      },
+      {
+        "word": "चौदह",
+        "img": "hin_fourteen",
+        "sound": "hin_fourteen",
+        "u": "१४",
+        "l": "14",
+        "index": 13
+      },
+      {
+        "word": "पंद्रह",
+        "img": "hin_fifteen",
+        "sound": "hin_fifteen",
+        "u": "१५",
+        "l": "15",
+        "index": 14
+      },
+      {
+        "word": "सोलह",
+        "img": "hin_sixteen",
+        "sound": "hin_sixteen",
+        "u": "१६",
+        "l": "16",
+        "index": 15
+      },
+      {
+        "word": "सत्रह",
+        "img": "hin_seventeen",
+        "sound": "hin_seventeen",
+        "u": "१७",
+        "l": "17",
+        "index": 16
+      },
+      {
+        "word": "अठारह",
+        "img": "hin_eighteen",
+        "sound": "hin_eighteen",
+        "u": "१८",
+        "l": "18",
+        "index": 17
+      },
+      {
+        "word": "उन्नीस",
+        "img": "hin_nineteen",
+        "sound": "hin_nineteen",
+        "u": "१९",
+        "l": "19",
+        "index": 18
+      },
+      {
+        "word": "बीस",
+        "img": "hin_twenty",
+        "sound": "hin_twenty",
+        "u": "२०",
+        "l": "20",
+        "index": 19
+      }
+    ]
+  },
+  "solarsystem": {
+    "assets": [
+      {
+        "word": "सौर मंडल",
+        "img": "title_solarsystem",
+        "sound": "title_solarsystem",
+        "index": 0
+      },
+      {
+        "word": "बुद्ध",
+        "img": "solar_mercury",
+        "sound": "solar_mercury",
+        "index": 1
+      },
+      {
+        "word": "शुक्र",
+        "img": "solar_venus",
+        "sound": "solar_venus",
+        "index": 2
+      },
+      {
+        "word": "पृथ्वी",
+        "img": "solar_earth",
+        "sound": "solar_earth",
+        "index": 3
+      },
+      {
+        "word": "मंगल",
+        "img": "solar_mars",
+        "sound": "solar_mars",
+        "index": 4
+      },
+      {
+        "word": "बृहस्पति",
+        "img": "solar_jupiter",
+        "sound": "solar_jupiter",
+        "index": 5
+      },
+      {
+        "word": "शनि",
+        "img": "solar_saturn",
+        "sound": "solar_saturn",
+        "index": 6
+      },
+      {
+        "word": "अरुण",
+        "img": "solar_uranus",
+        "sound": "solar_uranus",
+        "index": 7
+      },
+      {
+        "word": "वरुण",
+        "img": "solar_neptune",
+        "sound": "solar_neptune",
+        "index": 8
+      }
+    ]
+  },
+  "bodyparts": {
+    "assets": [
+      {
+        "word": "शरीर के अंग",
+        "img": "title_bodyparts",
+        "sound": "title_bodyparts",
+        "index": 0
+      },
+      {
+        "word": "सिर",
+        "img": "bpart_head",
+        "sound": "bpart_head",
+        "index": 1
+      },
+      {
+        "word": "माथा",
+        "img": "bpart_forehead",
+        "sound": "bpart_forehead",
+        "index": 2
+      },
+      {
+        "word": "आंखें",
+        "img": "bpart_eyes",
+        "sound": "bpart_eyes",
+        "index": 3
+      },
+      {
+        "word": "कान",
+        "img": "bpart_ears",
+        "sound": "bpart_ears",
+        "index": 4
+      },
+      {
+        "word": "नाक",
+        "img": "bpart_nose",
+        "sound": "bpart_nose",
+        "index": 5
+      },
+      {
+        "word": "मुंह",
+        "img": "bpart_mouth",
+        "sound": "bpart_mouth",
+        "index": 6
+      },
+      {
+        "word": "दांत",
+        "img": "bpart_teeth",
+        "sound": "bpart_teeth",
+        "index": 7
+      },
+      {
+        "word": "जुबान",
+        "img": "bpart_tongue",
+        "sound": "bpart_tongue",
+        "index": 8
+      },
+      {
+        "word": "गाल",
+        "img": "bpart_cheek",
+        "sound": "bpart_cheek",
+        "index": 9
+      },
+      {
+        "word": "ठोड़ी",
+        "img": "bpart_chin",
+        "sound": "bpart_chin",
+        "index": 10
+      },
+      {
+        "word": "गरदन",
+        "img": "bpart_neck",
+        "sound": "bpart_neck",
+        "index": 11
+      },
+      {
+        "word": "छाती",
+        "img": "bpart_chest",
+        "sound": "bpart_chest",
+        "index": 12
+      },
+      {
+        "word": "पेट",
+        "img": "bpart_stomach",
+        "sound": "bpart_stomach",
+        "index": 13
+      },
+      {
+        "word": "कोहनी",
+        "img": "bpart_elbow",
+        "sound": "bpart_elbow",
+        "index": 14
+      },
+      {
+        "word": "बांह",
+        "img": "bpart_arm",
+        "sound": "bpart_arm",
+        "index": 15
+      },
+      {
+        "word": "कलाई",
+        "img": "bpart_wrist",
+        "sound": "bpart_wrist",
+        "index": 16
+      },
+      {
+        "word": "अंगुली",
+        "img": "bpart_fingers",
+        "sound": "bpart_fingers",
+        "index": 17
+      },
+      {
+        "word": "जंघा",
+        "img": "bpart_thigh",
+        "sound": "bpart_thigh",
+        "index": 18
+      },
+      {
+        "word": "घुटना",
+        "img": "bpart_knee",
+        "sound": "bpart_knee",
+        "index": 19
+      },
+      {
+        "word": "पैर",
+        "img": "bpart_leg",
+        "sound": "bpart_leg",
+        "index": 20
+      },
+      {
+        "word": "टखना",
+        "img": "bpart_ankle",
+        "sound": "bpart_ankle",
+        "index": 21
+      },
+      {
+        "word": "पांव",
+        "img": "bpart_foot",
+        "sound": "bpart_foot",
+        "index": 22
+      },
+      {
+        "word": "पैर की अंगुली",
+        "img": "bpart_toes",
+        "sound": "bpart_toes",
+        "index": 23
+      }
+    ]
+  },
+  "birds": {
+    "assets": [
+      {
+        "word": "कौआ",
+        "img": "bird_crow",
+        "sound": "bird_crow",
+        "index": 0,
+        "progress": 0
+      },
+      {
+        "word": "मोर",
+        "img": "bird_peacock",
+        "sound": "bird_peacock",
+        "index": 1,
+        "progress": 5
+      },
+      {
+        "word": "तोता",
+        "img": "bird_parrot",
+        "sound": "bird_parrot",
+        "index": 2,
+        "progress": 10
+      },
+      {
+        "word": "लाल तोता",
+        "img": "bird_redparrot",
+        "sound": "bird_redparrot",
+        "index": 3,
+        "progress": 15
+      },
+      {
+        "word": "हंस",
+        "img": "bird_swan",
+        "sound": "bird_swan",
+        "index": 4,
+        "progress": 20
+      },
+      {
+        "word": "मुर्गी",
+        "img": "bird_hen",
+        "sound": "bird_hen",
+        "index": 5,
+        "progress": 25
+      },
+      {
+        "word": "कोयल",
+        "img": "bird_cuckoo",
+        "sound": "bird_cuckoo",
+        "index": 6,
+        "progress": 30
+      },
+      {
+        "word": "बत्तख",
+        "img": "bird_duck",
+        "sound": "bird_duck",
+        "index": 7,
+        "progress": 35
+      },
+      {
+        "word": "चील",
+        "img": "bird_eagle",
+        "sound": "bird_eagle",
+        "index": 8,
+        "progress": 40
+      },
+      {
+        "word": "मुरग़ा",
+        "img": "bird_rooster",
+        "sound": "bird_rooster",
+        "index": 9,
+        "progress": 45
+      },
+      {
+        "word": "कठफोडवा",
+        "img": "bird_woodpecker",
+        "sound": "bird_woodpecker",
+        "index": 10,
+        "progress": 50
+      },
+      {
+        "word": "शुतुरमुर्ग",
+        "img": "bird_ostrich",
+        "sound": "bird_ostrich",
+        "index": 11,
+        "progress": 55
+      },
+      {
+        "word": "सारस",
+        "img": "bird_crane",
+        "sound": "bird_crane",
+        "index": 12,
+        "progress": 60
+      },
+      {
+        "word": "राम चिरैया",
+        "img": "bird_kingfisher",
+        "sound": "bird_kingfisher",
+        "index": 13,
+        "progress": 65
+      },
+      {
+        "word": "उल्लू",
+        "img": "bird_owl",
+        "sound": "bird_owl",
+        "index": 14,
+        "progress": 70
+      },
+      {
+        "word": "कबूतर",
+        "img": "bird_pigeon",
+        "sound": "bird_pigeon",
+        "index": 15,
+        "progress": 75
+      },
+      {
+        "word": "टर्की",
+        "img": "bird_turkey",
+        "sound": "bird_turkey",
+        "index": 16,
+        "progress": 80
+      },
+      {
+        "word": "लकलक",
+        "img": "bird_stork",
+        "sound": "bird_stork",
+        "index": 17,
+        "progress": 85
+      },
+      {
+        "word": "गौरैया",
+        "img": "bird_sparrow",
+        "sound": "bird_sparrow",
+        "index": 18,
+        "progress": 90
+      }
+    ]
+  },
+  "places": {
+    "assets": [
+      {
+        "word": "घर",
+        "img": "pls_house",
+        "sound": "pls_house",
+        "index": 0,
+        "progress": 0
+      },
+      {
+        "word": "विद्यालय",
+        "img": "pls_school",
+        "sound": "pls_school",
+        "index": 1,
+        "progress": 4
+      },
+      {
+        "word": "पुस्तकालय",
+        "img": "pls_library",
+        "sound": "pls_library",
+        "index": 2,
+        "progress": 72
+      },
+      {
+        "word": "प्रयोगशाला",
+        "img": "pls_laboratory",
+        "sound": "pls_laboratory",
+        "index": 3,
+        "progress": 92
+      },
+      {
+        "word": "बस स्टॉप",
+        "img": "pls_busstop",
+        "sound": "pls_busstop",
+        "index": 4,
+        "progress": 24
+      },
+      {
+        "word": "रेलवे स्टेशन",
+        "img": "pls_railwaystation",
+        "sound": "pls_railwaystation",
+        "index": 5,
+        "progress": 40
+      },
+      {
+        "word": "हवाई अड्डा",
+        "img": "pls_airport",
+        "sound": "pls_airport",
+        "index": 6,
+        "progress": 60
+      },
+      {
+        "word": "मंदिर",
+        "img": "pls_temple",
+        "sound": "pls_temple",
+        "index": 7,
+        "progress": 28
+      },
+      {
+        "word": "गुरुद्वारा",
+        "img": "pls_gurudwara",
+        "sound": "pls_gurudwara",
+        "index": 8,
+        "progress": 68
+      },
+      {
+        "word": "गिरजाघर",
+        "img": "pls_church",
+        "sound": "pls_church",
+        "index": 9,
+        "progress": 68
+      },
+      {
+        "word": "मस्जिद",
+        "img": "pls_mosque",
+        "sound": "pls_mosque",
+        "index": 10,
+        "progress": 32
+      },
+      {
+        "word": "थाना",
+        "img": "pls_policestation",
+        "sound": "pls_policestation",
+        "index": 11,
+        "progress": 48
+      },
+      {
+        "word": "दमकल केंद्र",
+        "img": "pls_firestation",
+        "sound": "pls_firestation",
+        "index": 12,
+        "progress": 52
+      },
+      {
+        "word": "डाकखाना",
+        "img": "pls_postoffice",
+        "sound": "pls_postoffice",
+        "index": 13,
+        "progress": 56
+      },
+      {
+        "word": "समुद्र तट",
+        "img": "pls_beach",
+        "sound": "pls_beach",
+        "index": 14,
+        "progress": 16
+      },
+      {
+        "word": "क्रीड़ावन",
+        "img": "pls_themepark",
+        "sound": "pls_themepark",
+        "index": 15,
+        "progress": 76
+      },
+      {
+        "word": "चिड़ियाघर",
+        "img": "pls_zoo",
+        "sound": "pls_zoo",
+        "index": 16,
+        "progress": 84
+      },
+      {
+        "word": "मछलीघर",
+        "img": "pls_aquarium",
+        "sound": "pls_aquarium",
+        "index": 17,
+        "progress": 80
+      },
+      {
+        "word": "संग्रहालय",
+        "img": "pls_museum",
+        "sound": "pls_museum",
+        "index": 18,
+        "progress": 88
+      },
+      {
+        "word": "बंदरगाह",
+        "img": "pls_harbour",
+        "sound": "pls_harbour",
+        "index": 19,
+        "progress": 100
+      },
+      {
+        "word": "सिनेमाघर",
+        "img": "pls_cinematheater",
+        "sound": "pls_cinematheater",
+        "index": 20,
+        "progress": 8
+      },
+      {
+        "word": "भोजनालय",
+        "img": "pls_restaurant",
+        "sound": "pls_restaurant",
+        "index": 21,
+        "progress": 12
+      },
+      {
+        "word": "अस्पताल",
+        "img": "pls_hospital",
+        "sound": "pls_hospital",
+        "index": 22,
+        "progress": 20
+      },
+      {
+        "word": "पेट्रोल पंप",
+        "img": "pls_fuelstation",
+        "sound": "pls_fuelstation",
+        "index": 23,
+        "progress": 44
+      },
+      {
+        "word": "बिजलीघर",
+        "img": "pls_powerplant",
+        "sound": "pls_powerplant",
+        "index": 24,
+        "progress": 64
+      },
+      {
+        "word": "क्रीड़ांगण",
+        "img": "pls_stadium",
+        "sound": "pls_stadium",
+        "index": 25,
+        "progress": 68
+      }
+    ]
+  },
+  "pros": {
+    "assets": [
+      {
+        "word": "अध्यापक",
+        "img": "pros_teacher",
+        "sound": "pros_teacher",
+        "index": 0,
+        "progress": 0
+      },
+      {
+        "word": "चिकित्सक",
+        "img": "pros_doctor",
+        "sound": "pros_doctor",
+        "index": 1,
+        "progress": 4
+      },
+      {
+        "word": "नर्स",
+        "img": "pros_nurse",
+        "sound": "pros_nurse",
+        "index": 2,
+        "progress": 8
+      },
+      {
+        "word": "वैज्ञानिक",
+        "img": "pros_scientist",
+        "sound": "pros_scientist",
+        "index": 3,
+        "progress": 12
+      },
+      {
+        "word": "अंतरिक्षचारी",
+        "img": "pros_astronaut",
+        "sound": "pros_astronaut",
+        "index": 4,
+        "progress": 24
+      },
+      {
+        "word": "मछुआ",
+        "img": "pros_fisherman",
+        "sound": "pros_fisherman",
+        "index": 5,
+        "progress": 28
+      },
+      {
+        "word": "डाकिया",
+        "img": "pros_postman",
+        "sound": "pros_postman",
+        "index": 6,
+        "progress": 60
+      },
+      {
+        "word": "वितरणकर्ता",
+        "img": "pros_deliveryboy",
+        "sound": "pros_deliveryboy",
+        "index": 7,
+        "progress": 64
+      },
+      {
+        "word": "कप्तान",
+        "img": "pros_captain",
+        "sound": "pros_captain",
+        "index": 8,
+        "progress": 68
+      },
+      {
+        "word": "सिपाही",
+        "img": "pros_soldier",
+        "sound": "pros_soldier",
+        "index": 9,
+        "progress": 72
+      },
+      {
+        "word": "पायलट",
+        "img": "pros_pilot",
+        "sound": "pros_pilot",
+        "index": 10,
+        "progress": 40
+      },
+      {
+        "word": "चालक",
+        "img": "pros_driver",
+        "sound": "pros_driver",
+        "index": 11,
+        "progress": 44
+      },
+      {
+        "word": "यंत्र परीक्षक",
+        "img": "pros_mechanic",
+        "sound": "pros_mechanic",
+        "index": 12,
+        "progress": 48
+      },
+      {
+        "word": "चित्रकार",
+        "img": "pros_artist",
+        "sound": "pros_artist",
+        "index": 13,
+        "progress": 52
+      },
+      {
+        "word": "रंगसाज़",
+        "img": "pros_painter",
+        "sound": "pros_painter",
+        "index": 14,
+        "progress": 56
+      },
+      {
+        "word": "राजमिस्री",
+        "img": "pros_mason",
+        "sound": "pros_mason",
+        "index": 15,
+        "progress": 76
+      },
+      {
+        "word": "बढ़ई",
+        "img": "pros_carpenter",
+        "sound": "pros_carpenter",
+        "index": 16,
+        "progress": 80
+      },
+      {
+        "word": "कुम्हार",
+        "img": "pros_potter",
+        "sound": "pros_potter",
+        "index": 17,
+        "progress": 84
+      },
+      {
+        "word": "मूर्तिकार",
+        "img": "pros_sculptor",
+        "sound": "pros_sculptor",
+        "index": 18,
+        "progress": 88
+      },
+      {
+        "word": "नानबाई",
+        "img": "pros_baker",
+        "sound": "pros_baker",
+        "index": 19,
+        "progress": 92
+      },
+      {
+        "word": "शाहकार",
+        "img": "pros_chef",
+        "sound": "pros_chef",
+        "index": 20,
+        "progress": 100
+      },
+      {
+        "word": "जादूगर",
+        "img": "pros_magician",
+        "sound": "pros_magician",
+        "index": 21,
+        "progress": 32
+      }
+    ]
+  }
+}
